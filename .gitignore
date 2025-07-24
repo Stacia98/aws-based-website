@@ -1,0 +1,5 @@
+# Ignore sensitive Terraform config files
+terraform.tfvars
+*.tfstate
+*.tfstate.backup
+.terraform/
